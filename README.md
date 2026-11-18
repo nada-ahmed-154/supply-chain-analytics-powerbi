@@ -8,7 +8,7 @@
 
 An interactive **Power BI** business intelligence solution designed to transform raw supply chain data into actionable operational insights, enabling data-driven decisions across the entire value chain.
 
-![Supply Chain Dashboard Preview](images/dashboard.png)
+![Supply Chain Dashboard Preview](supply-chain.png)
 
 ---
 
